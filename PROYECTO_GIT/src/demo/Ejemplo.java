@@ -10,4 +10,7 @@ public class Ejemplo {
 		
 	}
 
+public void Metodo2(){
+		
+	}
 }
